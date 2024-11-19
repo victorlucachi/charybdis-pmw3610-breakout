@@ -196,6 +196,7 @@
 		(path "/0e48f17d-cf7a-402a-9d0d-4d2923c4fec1")
 		(sheetname "Root")
 		(sheetfile "sensor.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 2.85 0)
@@ -308,7 +309,7 @@
 		(path "/d04e4a25-fea8-400a-b78a-19b8bbedb78b")
 		(sheetname "Root")
 		(sheetfile "sensor.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start 1.8 14.5)
 			(end 1.8 -1.8)
@@ -547,6 +548,7 @@
 		(path "/e38709b1-4d36-4d3d-9889-87b8ce7a97c9")
 		(sheetname "Root")
 		(sheetfile "sensor.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 2.85 0)
